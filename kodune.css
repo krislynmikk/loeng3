@@ -1,0 +1,56 @@
+
+.konteiner {
+    width: 900px;
+    width: 95%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.kast {
+    width: 9%;
+    height: 100px;
+    background-color: lightsalmon;
+    border-width: 1px;
+    border-style: solid;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+body {
+    background-color: lightsalmon;
+}
+.kast1 {
+    width: 9%;
+    height: 100px;
+    background-color: gray;
+    border-width: 1px;
+    border-style: solid; 
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.kast1:hover {
+    background-color: gray;
+}
+
+.dabutton:focus {
+    background-color: gray;
+}
+button {
+    margin: auto;
+    display: auto;
+    background-color:transparent;
+    visibility: visible;
+    border: 2em;
+    height: 50%;
+    background-blend-mode: luminosity;
+    cursor:pointer;
+    
+}
+.button2 {
+    margin: auto;
+    display: none;
+    background-color: red;
+    width: 100%;
+    height: 100%;
+    border: none;
+    cursor:pointer;
+    overflow: hidden; 
+}

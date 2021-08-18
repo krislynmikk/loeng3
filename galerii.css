@@ -1,0 +1,56 @@
+
+body {
+    background-color: lightpink;
+}
+
+.konteiner {
+    background-color: lightblue;
+    width: 900px;
+    width: 95%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.kast {
+    width: 32%;
+    height: 250px;
+    background-color: lightsalmon;
+    border-width: 1px;
+    border-style: solid;
+}
+.pilt1 {
+    background-image: url("pilt1.png");
+    background-size: cover;
+}
+.pilt2 {
+    background-image: url("pilt2.jpeg");
+    background-size: cover;
+}
+.pilt3 {
+    background-image: url("pilt3.jpeg");
+    background-size: cover;
+}
+.pilt4 {
+    background-image: url("pilt4.jpeg");
+    background-size: cover;
+}
+.pilt5 {
+    background-image: url("pilt5.jpeg");
+    background-size: cover;
+}
+.pilt6 {
+    background-image: url("pilt6.jpeg");
+    background-size: cover;
+}
+.pilt7 {
+    background-image: url("pilt7.webp");
+    background-size: cover;
+}
+.pilt8 {
+    background-image: url("pilt8.jpeg");
+    background-size: cover
+}
+.pilt9 {
+    background-image: url("pilt9.jpeg");
+    background-size: cover;
+}
